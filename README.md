@@ -55,8 +55,8 @@
    
 ## ✅ Лабораторная работа № 3
 Работа с Cisco Packet Tracer:
-1. [Отчет](https://github.com/Tsyreniao/inet/blob/main/src/report.pdf).
-2. [Сценарий Cisco Packet Tracer](https://github.com/Tsyreniao/inet/blob/main/src/CiscoFile.pka).
+1. [Отчет](https://github.com/darling-dora/inet/blob/main/ЛР3_отчет%2C%20Поденок%20Дарья.pdf).
+2. [Сценарий Cisco Packet Tracer](https://github.com/darling-dora/inet/blob/main/Поденок%20Дарья%2C%20лаба%203.pka).
 
 ## ✅ Экзаменационный билет
 
